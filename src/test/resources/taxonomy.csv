@@ -1,0 +1,14 @@
+Translation,2,fr_FR,musique
+Translation,1,en_GB,music
+Tag,6,films,
+Tag,5,theatre,
+Tag,4,restaurant,
+Tag,3,music,;1;2
+Tag,2,shows,
+Tag,1,categories,
+Node,6,6,
+Node,5,5,
+Node,4,4,
+Node,3,3,
+Node,2,2,;5;6
+Node,1,1,;2;3;4
